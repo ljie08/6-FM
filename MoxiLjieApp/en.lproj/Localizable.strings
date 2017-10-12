@@ -1,0 +1,32 @@
+/* 
+  Localizable.strings
+  MoxiLjieApp
+
+  Created by ljie on 2017/9/8.
+  Copyright © 2017年 AppleFish. All rights reserved.
+*/
+//"home"="Home";
+//"discover"="Discover";
+
+//"hottuijian"="Hot";
+//"newlesson"="New Lesson";
+//"newfm"="New FM";
+//"tuijiandiantai"="Best Diantai";
+//
+//"morediantai"="More Diantai";
+//"morefm"="More FM";
+//"morelesson"="More Lesson";
+//"more"="More";
+//
+//"newzhubo"="Hot Anchor";
+//"hotzhubo"="New Anchor";
+//"findzhubo"="Find Anchor";
+//
+//"xinqing"="Mind";
+//"changjing"="Scene";
+//"zhubo"="Anchor";
+//
+//"listen"="Listen";
+//"jiemu"="Program";
+//"bofang"="Play";
+//"guanzhu"="Like";

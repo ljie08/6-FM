@@ -1,0 +1,32 @@
+/* 
+  Localizable.strings
+  MoxiLjieApp
+
+  Created by ljie on 2017/9/8.
+  Copyright © 2017年 AppleFish. All rights reserved.
+*/
+//"home"="首页";
+//"discover"="发现";
+//
+//"hottuijian"="热门推荐";
+//"newlesson"="最新心理课";
+//"newfm"="最新FM";
+//"tuijiandiantai"="电台推荐";
+//
+//"morediantai"="更多电台";
+//"morefm"="更多FM";
+//"morelesson"="更多心理课";
+//"more"="更多";
+//
+//"newzhubo"="新晋主播";
+//"hotzhubo"="热门主播";
+//"findzhubo"="发现主播";
+//
+//"xinqing"="心情";
+//"changjing"="场景";
+//"zhubo"="主播";
+//
+//"listen"="收听";
+//"jiemu"="节目";
+//"bofang"="播放";
+//"guanzhu"="关注";
